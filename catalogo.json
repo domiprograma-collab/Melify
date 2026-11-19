@@ -1,0 +1,53 @@
+{
+  "comercio": {
+    "nombre": "TIENDA FAGUER NAILS",
+    "logo": "",
+    "whatsapp": "5491164118306",
+    "alias": "FDTIENDA",
+    "ultima_actualizacion": "2026-11-19T02:59:18.490Z"
+  },
+  "productos": [
+    {
+      "id": "PRD-001",
+      "nombre": "Auriculares Pro Wireless",
+      "categoria": "Audio",
+      "precio": 45000,
+      "stock": 12,
+      "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&q=80",
+      "activo": true,
+      "promo": {
+        "activa": true,
+        "descuento": 20,
+        "cartel": "OFERTA FLASH"
+      }
+    },
+    {
+      "id": "PRD-002",
+      "nombre": "Teclado Mecánico RGB",
+      "categoria": "Periféricos",
+      "precio": 68000,
+      "stock": 7,
+      "imagen": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=400&q=80",
+      "activo": true,
+      "promo": {
+        "activa": false,
+        "descuento": 0,
+        "cartel": ""
+      }
+    },
+    {
+      "id": "PRD-003",
+      "nombre": "Mouse Gamer 16000 DPI",
+      "categoria": "Periféricos",
+      "precio": 32000,
+      "stock": 15,
+      "imagen": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400&q=80",
+      "activo": true,
+      "promo": {
+        "activa": true,
+        "descuento": 15,
+        "cartel": "HOT PROMO"
+      }
+    }
+  ]
+}
